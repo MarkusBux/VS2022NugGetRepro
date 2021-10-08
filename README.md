@@ -1,4 +1,4 @@
-# VS2022NugGetRepro
+# VS2022 for Mac - NugGet Repro
 Visual Studio for Mac 2022 Preview - NuGet Issue Repro
 
 1. Clone this repository
